@@ -11,4 +11,9 @@ I like Nainital as it is a cozy hill station at a height about 3000+ meters abou
 2. paragliding
 3. ziplining
 
+### My favourite dishes available here : 
 
+* maggie
+* momos
+* chicken noodles
+* hot chocolate
