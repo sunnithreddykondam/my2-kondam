@@ -26,3 +26,19 @@ Below is the table that has my recommendation based on my liking and knowledge o
 
 > *“Science is not just a subject, it’s a way of thinking.”*
 > - *C.V. Raman*
+
+---
+
+### Coding solutions
+
+> *"Is it possible to tell TypeScript that the type of the value passed to a function must possibly match a specific type, but can also be anything else, as long as it possibly matches the specified type. The function would then do further verification on this own."*
+
+StackOverflow link : [Click here](https://stackoverflow.com/questions/69680459/soft-type-checking-function-parameters)
+
+```
+@function is-number($value) {
+  @return type-of($value) == 'number';
+}
+```
+
+Link to css tricks : <https://css-tricks.com/snippets/sass/advanced-type-checking/>
