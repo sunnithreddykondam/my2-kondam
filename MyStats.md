@@ -17,3 +17,12 @@ Below is the table that has my recommendation based on my liking and knowledge o
 | Chess | Mental sport, makes you calm and focused. | 6 hrs |
 | Swimming | Water sport, good for health and is a life skill. | 4 hrs |
 
+---
+
+### My favourite quotations by scientists
+
+>  *“Now I am become Death, the destroyer of worlds."*
+> - *J. Robert Oppenheimer*
+
+> *“Science is not just a subject, it’s a way of thinking.”*
+> - *C.V. Raman*
