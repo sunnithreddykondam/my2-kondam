@@ -17,3 +17,7 @@ I like Nainital as it is a cozy hill station at a height about 3000+ meters abou
 * momos
 * chicken noodles
 * hot chocolate
+
+<br>
+
+Link to MyStats : **[Click here](Mystats.md)**
